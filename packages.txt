@@ -1,7 +1,2 @@
 python3-dev
-build-essential
-python3-pip
-python3-venv
-gcc
-g++
-make 
+build-essential 
