@@ -1,0 +1,201 @@
+aircraft_id,maintenance_log,category,cleaned_text
+Aircraft A350-005,Aircraft A350-005: hydraulic actuator stuck in flight. Maintenance crew notified.,Hydraulic Issue,aircraft hydraulic actuator stuck flight maintenance crew notified
+Aircraft A380-003,Aircraft A380-003: hydraulic actuator stuck during approach.,Hydraulic Issue,aircraft hydraulic actuator stuck approach
+Aircraft B747-008,Aircraft B747-008: hydraulic system malfunction during taxi. Severity: Minor. Immediate attention needed.,Hydraulic Issue,aircraft hydraulic system malfunction taxi severity minor immediate attention needed
+Aircraft B747-008,Aircraft B747-008: hydraulic line rupture after landing. Severity: Minor.,Hydraulic Issue,aircraft hydraulic line rupture landing severity minor
+Aircraft A320-001,Aircraft A320-001: hydraulic accumulator failure at cruise altitude. Severity: Major.,Hydraulic Issue,aircraft hydraulic accumulator failure cruise altitude severity major
+Aircraft B777-006,Aircraft B777-006: hydraulic pressure fluctuating before engine shutdown.,Hydraulic Issue,aircraft hydraulic pressure fluctuating engine shutdown
+Aircraft B787-004,Aircraft B787-004: hydraulic accumulator failure after engine start. Severity: Major. Technician inspection required.,Hydraulic Issue,aircraft hydraulic accumulator failure engine start severity major technician inspection required
+Aircraft B737-002,Aircraft B737-002: hydraulic fluid contamination after engine start. Severity: Moderate. Maintenance crew notified.,Hydraulic Issue,aircraft hydraulic fluid contamination engine start severity moderate maintenance crew notified
+Aircraft B787-004,Aircraft B787-004: hydraulic fluid leak in flight.,Hydraulic Issue,aircraft hydraulic fluid leak flight
+Aircraft A380-003,Aircraft A380-003: hydraulic pressure gauge reading zero before engine shutdown. Severity: Moderate.,Hydraulic Issue,aircraft hydraulic pressure gauge reading zero engine shutdown severity moderate
+Aircraft B777-006,Aircraft B777-006: hydraulic fluid leak during descent.,Hydraulic Issue,aircraft hydraulic fluid leak descent
+Aircraft B787-004,Aircraft B787-004: hydraulic fluid dark colored during approach. Severity: Moderate. Technician inspection required.,Hydraulic Issue,aircraft hydraulic fluid dark colored approach severity moderate technician inspection required
+Aircraft B747-008,Aircraft B747-008: hydraulic pressure fluctuating before engine shutdown. Severity: Minor. Maintenance crew notified.,Hydraulic Issue,aircraft hydraulic pressure fluctuating engine shutdown severity minor maintenance crew notified
+Aircraft B737-002,Aircraft B737-002: hydraulic pressure fluctuating after refueling. Severity: Moderate. Immediate attention needed.,Hydraulic Issue,aircraft hydraulic pressure fluctuating refueling severity moderate immediate attention needed
+Aircraft A350-005,Aircraft A350-005: hydraulic system overheating at cruise altitude. Severity: Minor.,Hydraulic Issue,aircraft hydraulic system overheating cruise altitude severity minor
+Aircraft A320-001,Aircraft A320-001: hydraulic fluid contamination during taxi.,Hydraulic Issue,aircraft hydraulic fluid contamination taxi
+Aircraft A320-001,Aircraft A320-001: hydraulic pressure relief valve stuck during takeoff. Severity: Major. Maintenance crew notified.,Hydraulic Issue,aircraft hydraulic pressure relief valve stuck takeoff severity major maintenance crew notified
+Aircraft B737-002,Aircraft B737-002: hydraulic filter clogged after engine start. Immediate attention needed.,Hydraulic Issue,aircraft hydraulic filter clogged engine start immediate attention needed
+Aircraft A320-001,Aircraft A320-001: hydraulic accumulator failure after landing.,Hydraulic Issue,aircraft hydraulic accumulator failure landing
+Aircraft B787-004,Aircraft B787-004: hydraulic reservoir empty during takeoff. Severity: Major.,Hydraulic Issue,aircraft hydraulic reservoir empty takeoff severity major
+Aircraft A330-007,Aircraft A330-007: hydraulic pump failure during maintenance check. Severity: Minor. Technician inspection required.,Hydraulic Issue,aircraft hydraulic pump failure maintenance check severity minor technician inspection required
+Aircraft A380-003,Aircraft A380-003: hydraulic fluid level low after engine start. Severity: Major.,Hydraulic Issue,aircraft hydraulic fluid level low engine start severity major
+Aircraft A330-007,Aircraft A330-007: hydraulic system overheating during takeoff. Severity: Minor.,Hydraulic Issue,aircraft hydraulic system overheating takeoff severity minor
+Aircraft A350-005,Aircraft A350-005: hydraulic system malfunction during descent.,Hydraulic Issue,aircraft hydraulic system malfunction descent
+Aircraft B787-004,Aircraft B787-004: hydraulic pressure relief valve stuck after refueling. Severity: Major.,Hydraulic Issue,aircraft hydraulic pressure relief valve stuck refueling severity major
+Aircraft A350-005,Aircraft A350-005: hydraulic fluid leak during approach.,Hydraulic Issue,aircraft hydraulic fluid leak approach
+Aircraft B787-004,Aircraft B787-004: hydraulic accumulator failure during climb. Severity: Major.,Hydraulic Issue,aircraft hydraulic accumulator failure climb severity major
+Aircraft A320-001,Aircraft A320-001: hydraulic actuator stuck during descent.,Hydraulic Issue,aircraft hydraulic actuator stuck descent
+Aircraft A380-003,Aircraft A380-003: hydraulic system overheating at cruise altitude.,Hydraulic Issue,aircraft hydraulic system overheating cruise altitude
+Aircraft A350-005,Aircraft A350-005: hydraulic fluid contamination during descent. Severity: Moderate.,Hydraulic Issue,aircraft hydraulic fluid contamination descent severity moderate
+Aircraft B777-006,Aircraft B777-006: hydraulic pump making unusual noise on ground.,Hydraulic Issue,aircraft hydraulic pump making unusual noise ground
+Aircraft A320-001,Aircraft A320-001: hydraulic system slow response during descent.,Hydraulic Issue,aircraft hydraulic system slow response descent
+Aircraft A380-003,Aircraft A380-003: hydraulic actuator stuck after landing.,Hydraulic Issue,aircraft hydraulic actuator stuck landing
+Aircraft A320-001,Aircraft A320-001: hydraulic system slow response on ground. Severity: Moderate.,Hydraulic Issue,aircraft hydraulic system slow response ground severity moderate
+Aircraft A380-003,Aircraft A380-003: hydraulic pressure low during preflight inspection. Severity: Minor.,Hydraulic Issue,aircraft hydraulic pressure low preflight inspection severity minor
+Aircraft B787-004,Aircraft B787-004: hydraulic line rupture after engine start.,Hydraulic Issue,aircraft hydraulic line rupture engine start
+Aircraft B777-006,Aircraft B777-006: hydraulic system slow response before engine shutdown.,Hydraulic Issue,aircraft hydraulic system slow response engine shutdown
+Aircraft A380-003,Aircraft A380-003: hydraulic line rupture before departure. Severity: Minor.,Hydraulic Issue,aircraft hydraulic line rupture departure severity minor
+Aircraft A380-003,Aircraft A380-003: hydraulic line rupture after refueling. Severity: Major.,Hydraulic Issue,aircraft hydraulic line rupture refueling severity major
+Aircraft A380-003,Aircraft A380-003: hydraulic pump failure before engine shutdown.,Hydraulic Issue,aircraft hydraulic pump failure engine shutdown
+Aircraft B747-008,Aircraft B747-008: hydraulic fluid contamination during preflight inspection. Maintenance crew notified.,Hydraulic Issue,aircraft hydraulic fluid contamination preflight inspection maintenance crew notified
+Aircraft A320-001,Aircraft A320-001: hydraulic pressure relief valve stuck during climb. Pilot reported issue.,Hydraulic Issue,aircraft hydraulic pressure relief valve stuck climb pilot reported issue
+Aircraft A330-007,Aircraft A330-007: hydraulic filter clogged during takeoff. Severity: Moderate. Immediate attention needed.,Hydraulic Issue,aircraft hydraulic filter clogged takeoff severity moderate immediate attention needed
+Aircraft A320-001,Aircraft A320-001: hydraulic system slow response after landing. Maintenance crew notified.,Hydraulic Issue,aircraft hydraulic system slow response landing maintenance crew notified
+Aircraft A380-003,Aircraft A380-003: hydraulic fluid contamination at cruise altitude. Severity: Major. Pilot reported issue.,Hydraulic Issue,aircraft hydraulic fluid contamination cruise altitude severity major pilot reported issue
+Aircraft B787-004,Aircraft B787-004: hydraulic pressure low during taxi.,Hydraulic Issue,aircraft hydraulic pressure low taxi
+Aircraft B787-004,Aircraft B787-004: hydraulic line rupture during taxi. Severity: Moderate. Maintenance crew notified.,Hydraulic Issue,aircraft hydraulic line rupture taxi severity moderate maintenance crew notified
+Aircraft B737-002,Aircraft B737-002: hydraulic fluid dark colored during descent.,Hydraulic Issue,aircraft hydraulic fluid dark colored descent
+Aircraft A320-001,Aircraft A320-001: hydraulic fluid contamination in flight.,Hydraulic Issue,aircraft hydraulic fluid contamination flight
+Aircraft B747-008,Aircraft B747-008: hydraulic pressure fluctuating in flight. Severity: Major. Immediate attention needed.,Hydraulic Issue,aircraft hydraulic pressure fluctuating flight severity major immediate attention needed
+Aircraft A380-003,Aircraft A380-003: electrical system failure during climb.,Electrical Issue,aircraft electrical system failure climb
+Aircraft B777-006,Aircraft B777-006: electrical system noise during descent. Severity: Major. Technician inspection required.,Electrical Issue,aircraft electrical system noise descent severity major technician inspection required
+Aircraft B777-006,Aircraft B777-006: avionics malfunction during maintenance check. Severity: Major.,Electrical Issue,aircraft avionics malfunction maintenance check severity major
+Aircraft A350-005,Aircraft A350-005: generator not charging during climb.,Electrical Issue,aircraft generator charging climb
+Aircraft B787-004,Aircraft B787-004: electrical connector corrosion during preflight inspection. Severity: Minor.,Electrical Issue,aircraft electrical connector corrosion preflight inspection severity minor
+Aircraft B787-004,Aircraft B787-004: electrical panel fault during takeoff. Maintenance crew notified.,Electrical Issue,aircraft electrical panel fault takeoff maintenance crew notified
+Aircraft A330-007,Aircraft A330-007: electrical system noise during maintenance check. Severity: Minor.,Electrical Issue,aircraft electrical system noise maintenance check severity minor
+Aircraft A320-001,Aircraft A320-001: electrical wiring insulation damaged after engine start.,Electrical Issue,aircraft electrical wiring insulation damaged engine start
+Aircraft B777-006,Aircraft B777-006: electrical system overload before engine shutdown. Severity: Moderate.,Electrical Issue,aircraft electrical system overload engine shutdown severity moderate
+Aircraft A330-007,Aircraft A330-007: voltage drop detected before departure.,Electrical Issue,aircraft voltage drop detected departure
+Aircraft A320-001,Aircraft A320-001: avionics malfunction during approach. Severity: Minor. Immediate attention needed.,Electrical Issue,aircraft avionics malfunction approach severity minor immediate attention needed
+Aircraft B737-002,Aircraft B737-002: circuit breaker tripped after refueling. Severity: Major.,Electrical Issue,aircraft circuit breaker tripped refueling severity major
+Aircraft B737-002,Aircraft B737-002: electrical component overheating during climb.,Electrical Issue,aircraft electrical component overheating climb
+Aircraft B747-008,Aircraft B747-008: electrical system voltage fluctuation during preflight inspection. Severity: Moderate. Technician inspection required.,Electrical Issue,aircraft electrical system voltage fluctuation preflight inspection severity moderate technician inspection required
+Aircraft B737-002,Aircraft B737-002: voltage drop detected during climb.,Electrical Issue,aircraft voltage drop detected climb
+Aircraft B737-002,Aircraft B737-002: electrical component failure at cruise altitude. Severity: Minor. Pilot reported issue.,Electrical Issue,aircraft electrical component failure cruise altitude severity minor pilot reported issue
+Aircraft B737-002,Aircraft B737-002: electrical connector corrosion in flight. Severity: Moderate.,Electrical Issue,aircraft electrical connector corrosion flight severity moderate
+Aircraft B747-008,Aircraft B747-008: generator not charging during preflight inspection. Severity: Minor.,Electrical Issue,aircraft generator charging preflight inspection severity minor
+Aircraft B747-008,Aircraft B747-008: electrical panel fault after refueling. Severity: Major.,Electrical Issue,aircraft electrical panel fault refueling severity major
+Aircraft B747-008,Aircraft B747-008: electrical connection loose in flight. Severity: Moderate.,Electrical Issue,aircraft electrical connection loose flight severity moderate
+Aircraft A330-007,Aircraft A330-007: electrical connector corrosion during taxi. Pilot reported issue.,Electrical Issue,aircraft electrical connector corrosion taxi pilot reported issue
+Aircraft A350-005,Aircraft A350-005: generator not charging during approach.,Electrical Issue,aircraft generator charging approach
+Aircraft A320-001,Aircraft A320-001: electrical ground fault during maintenance check.,Electrical Issue,aircraft electrical ground fault maintenance check
+Aircraft B777-006,Aircraft B777-006: avionics malfunction during descent. Severity: Minor.,Electrical Issue,aircraft avionics malfunction descent severity minor
+Aircraft A330-007,Aircraft A330-007: electrical system intermittent after refueling. Severity: Minor.,Electrical Issue,aircraft electrical system intermittent refueling severity minor
+Aircraft B737-002,Aircraft B737-002: wiring short circuit during climb. Maintenance crew notified.,Electrical Issue,aircraft wiring short circuit climb maintenance crew notified
+Aircraft A350-005,Aircraft A350-005: electrical system noise during climb.,Electrical Issue,aircraft electrical system noise climb
+Aircraft B787-004,Aircraft B787-004: electrical system voltage fluctuation during maintenance check. Maintenance crew notified.,Electrical Issue,aircraft electrical system voltage fluctuation maintenance check maintenance crew notified
+Aircraft A320-001,Aircraft A320-001: circuit breaker tripped in flight.,Electrical Issue,aircraft circuit breaker tripped flight
+Aircraft A350-005,Aircraft A350-005: electrical system overload before departure. Severity: Major.,Electrical Issue,aircraft electrical system overload departure severity major
+Aircraft B747-008,Aircraft B747-008: electrical component failure during approach. Severity: Minor.,Electrical Issue,aircraft electrical component failure approach severity minor
+Aircraft B747-008,Aircraft B747-008: electrical system intermittent during taxi. Severity: Minor. Immediate attention needed.,Electrical Issue,aircraft electrical system intermittent taxi severity minor immediate attention needed
+Aircraft B787-004,Aircraft B787-004: electrical system voltage fluctuation during taxi.,Electrical Issue,aircraft electrical system voltage fluctuation taxi
+Aircraft A380-003,Aircraft A380-003: electrical system failure after refueling. Severity: Major. Immediate attention needed.,Electrical Issue,aircraft electrical system failure refueling severity major immediate attention needed
+Aircraft B787-004,Aircraft B787-004: electrical system overload on ground.,Electrical Issue,aircraft electrical system overload ground
+Aircraft A350-005,Aircraft A350-005: electrical system noise after landing.,Electrical Issue,aircraft electrical system noise landing
+Aircraft B747-008,Aircraft B747-008: electrical connector corrosion during approach.,Electrical Issue,aircraft electrical connector corrosion approach
+Aircraft A320-001,Aircraft A320-001: avionics malfunction during takeoff.,Electrical Issue,aircraft avionics malfunction takeoff
+Aircraft A380-003,Aircraft A380-003: electrical system power loss after refueling. Severity: Minor. Maintenance crew notified.,Electrical Issue,aircraft electrical system power loss refueling severity minor maintenance crew notified
+Aircraft A350-005,Aircraft A350-005: battery voltage low during approach. Severity: Major. Immediate attention needed.,Electrical Issue,aircraft battery voltage low approach severity major immediate attention needed
+Aircraft A320-001,Aircraft A320-001: battery voltage low after landing. Severity: Major. Maintenance crew notified.,Electrical Issue,aircraft battery voltage low landing severity major maintenance crew notified
+Aircraft A330-007,Aircraft A330-007: electrical ground fault during preflight inspection. Severity: Minor.,Electrical Issue,aircraft electrical ground fault preflight inspection severity minor
+Aircraft B777-006,Aircraft B777-006: electrical connector corrosion during preflight inspection.,Electrical Issue,aircraft electrical connector corrosion preflight inspection
+Aircraft A380-003,Aircraft A380-003: electrical component overheating on ground.,Electrical Issue,aircraft electrical component overheating ground
+Aircraft B787-004,Aircraft B787-004: voltage regulator failure during takeoff. Technician inspection required.,Electrical Issue,aircraft voltage regulator failure takeoff technician inspection required
+Aircraft B737-002,Aircraft B737-002: electrical system voltage fluctuation during takeoff. Severity: Minor.,Electrical Issue,aircraft electrical system voltage fluctuation takeoff severity minor
+Aircraft B787-004,Aircraft B787-004: electrical ground fault at cruise altitude. Severity: Minor. Maintenance crew notified.,Electrical Issue,aircraft electrical ground fault cruise altitude severity minor maintenance crew notified
+Aircraft A350-005,Aircraft A350-005: circuit breaker tripped after refueling.,Electrical Issue,aircraft circuit breaker tripped refueling
+Aircraft A330-007,Aircraft A330-007: generator not charging during takeoff. Severity: Major.,Electrical Issue,aircraft generator charging takeoff severity major
+Aircraft B737-002,Aircraft B737-002: electrical ground fault at cruise altitude. Severity: Minor.,Electrical Issue,aircraft electrical ground fault cruise altitude severity minor
+Aircraft A350-005,Aircraft A350-005: landing gear door malfunction during descent.,Landing Gear Issue,aircraft landing gear door malfunction descent
+Aircraft A350-005,Aircraft A350-005: landing gear warning light during maintenance check. Immediate attention needed.,Landing Gear Issue,aircraft landing gear warning light maintenance check immediate attention needed
+Aircraft B777-006,Aircraft B777-006: landing gear position indicator fault during preflight inspection. Severity: Major. Maintenance crew notified.,Landing Gear Issue,aircraft landing gear position indicator fault preflight inspection severity major maintenance crew notified
+Aircraft B777-006,Aircraft B777-006: landing gear hydraulic failure in flight. Severity: Major. Pilot reported issue.,Landing Gear Issue,aircraft landing gear hydraulic failure flight severity major pilot reported issue
+Aircraft B737-002,Aircraft B737-002: landing gear door malfunction on ground. Severity: Major.,Landing Gear Issue,aircraft landing gear door malfunction ground severity major
+Aircraft B737-002,Aircraft B737-002: landing gear position indicator fault after refueling.,Landing Gear Issue,aircraft landing gear position indicator fault refueling
+Aircraft A330-007,Aircraft A330-007: tire puncture detected after refueling. Severity: Minor.,Landing Gear Issue,aircraft tire puncture detected refueling severity minor
+Aircraft B747-008,Aircraft B747-008: tire inflation valve leak at cruise altitude. Severity: Minor. Immediate attention needed.,Landing Gear Issue,aircraft tire inflation valve leak cruise altitude severity minor immediate attention needed
+Aircraft A350-005,Aircraft A350-005: landing gear position indicator fault after refueling.,Landing Gear Issue,aircraft landing gear position indicator fault refueling
+Aircraft B787-004,Aircraft B787-004: tire temperature high on ground.,Landing Gear Issue,aircraft tire temperature high ground
+Aircraft B737-002,Aircraft B737-002: landing gear alignment problem at cruise altitude.,Landing Gear Issue,aircraft landing gear alignment problem cruise altitude
+Aircraft A320-001,Aircraft A320-001: landing gear brake failure before engine shutdown. Severity: Moderate.,Landing Gear Issue,aircraft landing gear brake failure engine shutdown severity moderate
+Aircraft B737-002,Aircraft B737-002: tire tread separation during climb. Severity: Moderate.,Landing Gear Issue,aircraft tire tread separation climb severity moderate
+Aircraft B737-002,Aircraft B737-002: tire temperature high during taxi.,Landing Gear Issue,aircraft tire temperature high taxi
+Aircraft B787-004,Aircraft B787-004: landing gear actuator failure during climb.,Landing Gear Issue,aircraft landing gear actuator failure climb
+Aircraft A320-001,Aircraft A320-001: tire inflation valve leak at cruise altitude.,Landing Gear Issue,aircraft tire inflation valve leak cruise altitude
+Aircraft A350-005,Aircraft A350-005: landing gear wheel bearing noise after refueling. Severity: Minor. Technician inspection required.,Landing Gear Issue,aircraft landing gear wheel bearing noise refueling severity minor technician inspection required
+Aircraft A320-001,Aircraft A320-001: tire wear excessive before engine shutdown. Pilot reported issue.,Landing Gear Issue,aircraft tire wear excessive engine shutdown pilot reported issue
+Aircraft A330-007,Aircraft A330-007: landing gear position indicator fault during maintenance check. Pilot reported issue.,Landing Gear Issue,aircraft landing gear position indicator fault maintenance check pilot reported issue
+Aircraft A380-003,Aircraft A380-003: landing gear brake failure during preflight inspection. Severity: Major.,Landing Gear Issue,aircraft landing gear brake failure preflight inspection severity major
+Aircraft A320-001,Aircraft A320-001: tire inflation valve leak after refueling.,Landing Gear Issue,aircraft tire inflation valve leak refueling
+Aircraft B747-008,Aircraft B747-008: landing gear not retracting during maintenance check.,Landing Gear Issue,aircraft landing gear retracting maintenance check
+Aircraft A350-005,Aircraft A350-005: tire wear excessive before engine shutdown. Severity: Minor.,Landing Gear Issue,aircraft tire wear excessive engine shutdown severity minor
+Aircraft B737-002,Aircraft B737-002: tire temperature high during maintenance check. Severity: Minor.,Landing Gear Issue,aircraft tire temperature high maintenance check severity minor
+Aircraft A320-001,Aircraft A320-001: landing gear extension failure during descent. Severity: Minor.,Landing Gear Issue,aircraft landing gear extension failure descent severity minor
+Aircraft B747-008,Aircraft B747-008: landing gear not retracting during preflight inspection. Severity: Major.,Landing Gear Issue,aircraft landing gear retracting preflight inspection severity major
+Aircraft B777-006,Aircraft B777-006: landing gear warning light before departure. Severity: Moderate. Pilot reported issue.,Landing Gear Issue,aircraft landing gear warning light departure severity moderate pilot reported issue
+Aircraft B777-006,Aircraft B777-006: landing gear lock failure during maintenance check. Severity: Minor.,Landing Gear Issue,aircraft landing gear lock failure maintenance check severity minor
+Aircraft A330-007,Aircraft A330-007: landing gear brake failure after engine start. Severity: Moderate. Technician inspection required.,Landing Gear Issue,aircraft landing gear brake failure engine start severity moderate technician inspection required
+Aircraft B747-008,Aircraft B747-008: landing gear door malfunction before departure.,Landing Gear Issue,aircraft landing gear door malfunction departure
+Aircraft B777-006,Aircraft B777-006: landing gear warning light after landing. Severity: Major. Immediate attention needed.,Landing Gear Issue,aircraft landing gear warning light landing severity major immediate attention needed
+Aircraft B747-008,Aircraft B747-008: landing gear strut leak during preflight inspection. Severity: Moderate.,Landing Gear Issue,aircraft landing gear strut leak preflight inspection severity moderate
+Aircraft A350-005,Aircraft A350-005: landing gear emergency extension during preflight inspection. Severity: Moderate. Pilot reported issue.,Landing Gear Issue,aircraft landing gear emergency extension preflight inspection severity moderate pilot reported issue
+Aircraft B787-004,Aircraft B787-004: tire inflation valve leak during climb. Maintenance crew notified.,Landing Gear Issue,aircraft tire inflation valve leak climb maintenance crew notified
+Aircraft B777-006,Aircraft B777-006: landing gear warning light after refueling. Severity: Major.,Landing Gear Issue,aircraft landing gear warning light refueling severity major
+Aircraft A380-003,Aircraft A380-003: landing gear wheel bearing noise before engine shutdown.,Landing Gear Issue,aircraft landing gear wheel bearing noise engine shutdown
+Aircraft B747-008,Aircraft B747-008: tire puncture detected in flight. Technician inspection required.,Landing Gear Issue,aircraft tire puncture detected flight technician inspection required
+Aircraft B737-002,Aircraft B737-002: landing gear actuator failure after refueling. Pilot reported issue.,Landing Gear Issue,aircraft landing gear actuator failure refueling pilot reported issue
+Aircraft B777-006,Aircraft B777-006: landing gear shock absorber failure after refueling.,Landing Gear Issue,aircraft landing gear shock absorber failure refueling
+Aircraft B737-002,Aircraft B737-002: landing gear extension failure during climb. Severity: Minor.,Landing Gear Issue,aircraft landing gear extension failure climb severity minor
+Aircraft A320-001,Aircraft A320-001: landing gear position indicator fault on ground.,Landing Gear Issue,aircraft landing gear position indicator fault ground
+Aircraft B777-006,Aircraft B777-006: landing gear brake failure during taxi.,Landing Gear Issue,aircraft landing gear brake failure taxi
+Aircraft B787-004,Aircraft B787-004: tire inflation valve leak during approach. Severity: Minor.,Landing Gear Issue,aircraft tire inflation valve leak approach severity minor
+Aircraft A330-007,Aircraft A330-007: landing gear alignment problem before engine shutdown.,Landing Gear Issue,aircraft landing gear alignment problem engine shutdown
+Aircraft B737-002,Aircraft B737-002: tire sidewall damage during taxi. Severity: Moderate.,Landing Gear Issue,aircraft tire sidewall damage taxi severity moderate
+Aircraft A380-003,Aircraft A380-003: landing gear emergency extension after engine start. Severity: Moderate. Immediate attention needed.,Landing Gear Issue,aircraft landing gear emergency extension engine start severity moderate immediate attention needed
+Aircraft B737-002,Aircraft B737-002: landing gear position indicator fault after landing.,Landing Gear Issue,aircraft landing gear position indicator fault landing
+Aircraft B737-002,Aircraft B737-002: tire wear excessive during climb. Severity: Minor.,Landing Gear Issue,aircraft tire wear excessive climb severity minor
+Aircraft A320-001,Aircraft A320-001: landing gear lock failure at cruise altitude.,Landing Gear Issue,aircraft landing gear lock failure cruise altitude
+Aircraft A320-001,Aircraft A320-001: landing gear shock absorber failure during takeoff.,Landing Gear Issue,aircraft landing gear shock absorber failure takeoff
+Aircraft B737-002,Aircraft B737-002: engine oil temperature high before departure. Severity: Minor.,Engine Issue,aircraft engine oil temperature high departure severity minor
+Aircraft A350-005,Aircraft A350-005: engine oil leak detected at cruise altitude.,Engine Issue,aircraft engine oil leak detected cruise altitude
+Aircraft B747-008,Aircraft B747-008: fuel system malfunction on ground.,Engine Issue,aircraft fuel system malfunction ground
+Aircraft B777-006,Aircraft B777-006: engine performance degradation during maintenance check.,Engine Issue,aircraft engine performance degradation maintenance check
+Aircraft B777-006,Aircraft B777-006: engine compression low in flight.,Engine Issue,aircraft engine compression low flight
+Aircraft A380-003,Aircraft A380-003: engine power loss after engine start. Severity: Minor. Technician inspection required.,Engine Issue,aircraft engine power loss engine start severity minor technician inspection required
+Aircraft B787-004,Aircraft B787-004: engine vibration excessive after landing. Severity: Major. Maintenance crew notified.,Engine Issue,aircraft engine vibration excessive landing severity major maintenance crew notified
+Aircraft B777-006,Aircraft B777-006: engine vibration excessive during takeoff. Severity: Major.,Engine Issue,aircraft engine vibration excessive takeoff severity major
+Aircraft B787-004,Aircraft B787-004: engine fuel flow irregular after refueling. Immediate attention needed.,Engine Issue,aircraft engine fuel flow irregular refueling immediate attention needed
+Aircraft A320-001,Aircraft A320-001: engine fuel flow irregular in flight. Severity: Major. Pilot reported issue.,Engine Issue,aircraft engine fuel flow irregular flight severity major pilot reported issue
+Aircraft B777-006,Aircraft B777-006: engine vibration excessive during maintenance check.,Engine Issue,aircraft engine vibration excessive maintenance check
+Aircraft A320-001,Aircraft A320-001: fuel pressure low during takeoff.,Engine Issue,aircraft fuel pressure low takeoff
+Aircraft B737-002,Aircraft B737-002: fuel pump failure after engine start. Severity: Minor.,Engine Issue,aircraft fuel pump failure engine start severity minor
+Aircraft A330-007,Aircraft A330-007: engine oil filter clogged during preflight inspection. Severity: Minor.,Engine Issue,aircraft engine oil filter clogged preflight inspection severity minor
+Aircraft B777-006,Aircraft B777-006: engine oil temperature high during taxi.,Engine Issue,aircraft engine oil temperature high taxi
+Aircraft B777-006,Aircraft B777-006: fuel system contamination during maintenance check. Severity: Moderate.,Engine Issue,aircraft fuel system contamination maintenance check severity moderate
+Aircraft B737-002,Aircraft B737-002: fuel pressure low at cruise altitude.,Engine Issue,aircraft fuel pressure low cruise altitude
+Aircraft B787-004,Aircraft B787-004: fuel filter clogged before departure. Severity: Major. Pilot reported issue.,Engine Issue,aircraft fuel filter clogged departure severity major pilot reported issue
+Aircraft A350-005,Aircraft A350-005: engine oil pressure low during maintenance check. Severity: Major.,Engine Issue,aircraft engine oil pressure low maintenance check severity major
+Aircraft A350-005,Aircraft A350-005: engine temperature high at cruise altitude. Severity: Moderate. Technician inspection required.,Engine Issue,aircraft engine temperature high cruise altitude severity moderate technician inspection required
+Aircraft B747-008,Aircraft B747-008: fuel filter clogged during descent.,Engine Issue,aircraft fuel filter clogged descent
+Aircraft A320-001,Aircraft A320-001: engine oil temperature high during preflight inspection.,Engine Issue,aircraft engine oil temperature high preflight inspection
+Aircraft A350-005,Aircraft A350-005: fuel system malfunction during descent. Severity: Major.,Engine Issue,aircraft fuel system malfunction descent severity major
+Aircraft A380-003,Aircraft A380-003: engine vibration excessive before departure. Severity: Moderate.,Engine Issue,aircraft engine vibration excessive departure severity moderate
+Aircraft A350-005,Aircraft A350-005: engine oil temperature high before engine shutdown. Technician inspection required.,Engine Issue,aircraft engine oil temperature high engine shutdown technician inspection required
+Aircraft B777-006,Aircraft B777-006: engine temperature high after refueling. Severity: Minor.,Engine Issue,aircraft engine temperature high refueling severity minor
+Aircraft B787-004,Aircraft B787-004: engine performance degradation during descent. Severity: Moderate.,Engine Issue,aircraft engine performance degradation descent severity moderate
+Aircraft B777-006,Aircraft B777-006: engine oil leak detected during preflight inspection. Severity: Major.,Engine Issue,aircraft engine oil leak detected preflight inspection severity major
+Aircraft B787-004,Aircraft B787-004: engine starter failure during taxi. Maintenance crew notified.,Engine Issue,aircraft engine starter failure taxi maintenance crew notified
+Aircraft B787-004,Aircraft B787-004: engine oil temperature high in flight. Severity: Major.,Engine Issue,aircraft engine oil temperature high flight severity major
+Aircraft B787-004,Aircraft B787-004: engine fuel flow irregular in flight. Severity: Major.,Engine Issue,aircraft engine fuel flow irregular flight severity major
+Aircraft B737-002,Aircraft B737-002: fuel pressure low during descent.,Engine Issue,aircraft fuel pressure low descent
+Aircraft B777-006,Aircraft B777-006: engine oil temperature high during approach. Severity: Moderate.,Engine Issue,aircraft engine oil temperature high approach severity moderate
+Aircraft A320-001,Aircraft A320-001: engine bearing noise at cruise altitude. Immediate attention needed.,Engine Issue,aircraft engine bearing noise cruise altitude immediate attention needed
+Aircraft B747-008,Aircraft B747-008: engine exhaust smoke in flight. Severity: Minor. Pilot reported issue.,Engine Issue,aircraft engine exhaust smoke flight severity minor pilot reported issue
+Aircraft A330-007,Aircraft A330-007: fuel system contamination during climb. Severity: Moderate.,Engine Issue,aircraft fuel system contamination climb severity moderate
+Aircraft A320-001,Aircraft A320-001: fuel injector malfunction during taxi. Severity: Major.,Engine Issue,aircraft fuel injector malfunction taxi severity major
+Aircraft B737-002,Aircraft B737-002: fuel pump failure during maintenance check. Severity: Moderate. Maintenance crew notified.,Engine Issue,aircraft fuel pump failure maintenance check severity moderate maintenance crew notified
+Aircraft A330-007,Aircraft A330-007: engine fuel flow irregular during taxi.,Engine Issue,aircraft engine fuel flow irregular taxi
+Aircraft B787-004,Aircraft B787-004: engine power loss during approach. Severity: Moderate.,Engine Issue,aircraft engine power loss approach severity moderate
+Aircraft B737-002,Aircraft B737-002: engine oil filter clogged at cruise altitude. Severity: Moderate.,Engine Issue,aircraft engine oil filter clogged cruise altitude severity moderate
+Aircraft A320-001,Aircraft A320-001: fuel system malfunction on ground. Severity: Major.,Engine Issue,aircraft fuel system malfunction ground severity major
+Aircraft B747-008,Aircraft B747-008: engine fuel flow irregular before departure. Severity: Moderate.,Engine Issue,aircraft engine fuel flow irregular departure severity moderate
+Aircraft A350-005,Aircraft A350-005: engine performance degradation during preflight inspection. Severity: Moderate.,Engine Issue,aircraft engine performance degradation preflight inspection severity moderate
+Aircraft A320-001,Aircraft A320-001: engine bearing noise during maintenance check. Maintenance crew notified.,Engine Issue,aircraft engine bearing noise maintenance check maintenance crew notified
+Aircraft B777-006,Aircraft B777-006: engine oil filter clogged before departure. Maintenance crew notified.,Engine Issue,aircraft engine oil filter clogged departure maintenance crew notified
+Aircraft B747-008,Aircraft B747-008: engine oil consumption high during preflight inspection. Technician inspection required.,Engine Issue,aircraft engine oil consumption high preflight inspection technician inspection required
+Aircraft B747-008,Aircraft B747-008: engine fuel flow irregular during descent.,Engine Issue,aircraft engine fuel flow irregular descent
+Aircraft A380-003,Aircraft A380-003: engine compression low during taxi. Technician inspection required.,Engine Issue,aircraft engine compression low taxi technician inspection required
+Aircraft B777-006,Aircraft B777-006: engine bearing noise after landing.,Engine Issue,aircraft engine bearing noise landing
