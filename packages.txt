@@ -1,2 +1,1 @@
-# System dependencies for the Streamlit app
-# NLTK data will be downloaded automatically by the Python app 
+ 
