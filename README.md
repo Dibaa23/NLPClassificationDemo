@@ -261,5 +261,3 @@ For questions or issues:
 3. Examine the code comments for implementation details
 
 ---
-
-**Happy Classifying! ✈️🔧** 
