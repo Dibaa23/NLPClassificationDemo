@@ -228,16 +228,29 @@ st.markdown("""
 # Download NLTK data if needed
 @st.cache_resource
 def download_nltk_data():
+    """Download NLTK data with better error handling for cloud deployment"""
     try:
+        # Force download of punkt tokenizer
+        nltk.download('punkt', quiet=True)
+        nltk.download('stopwords', quiet=True)
+        
+        # Verify downloads
         nltk.data.find('tokenizers/punkt')
-    except LookupError:
-        nltk.download('punkt')
-    
-    try:
         nltk.data.find('corpora/stopwords')
-    except LookupError:
-        nltk.download('stopwords')
+        
+        st.success("NLTK data loaded successfully!")
+    except Exception as e:
+        st.error(f"Error loading NLTK data: {e}")
+        # Try alternative approach
+        try:
+            import ssl
+            ssl._create_default_https_context = ssl._create_unverified_context
+            nltk.download('punkt', quiet=True)
+            nltk.download('stopwords', quiet=True)
+        except Exception as e2:
+            st.error(f"Failed to download NLTK data: {e2}")
 
+# Download NLTK data at startup
 download_nltk_data()
 
 # Load models and data
@@ -300,7 +313,7 @@ def get_recommendations():
     }
 
 def preprocess_text(text):
-    """Clean and preprocess text data"""
+    """Clean and preprocess text data with fallback for NLTK issues"""
     # Convert to lowercase
     text = text.lower()
     
@@ -308,12 +321,23 @@ def preprocess_text(text):
     text = re.sub(r'[^a-zA-Z\s]', ' ', text)
     text = re.sub(r'\s+', ' ', text).strip()
     
-    # Tokenize
-    tokens = word_tokenize(text)
-    
-    # Remove stopwords
-    stop_words = set(stopwords.words('english'))
-    tokens = [token for token in tokens if token not in stop_words and len(token) > 2]
+    try:
+        # Try to use NLTK tokenization
+        tokens = word_tokenize(text)
+        
+        # Try to use NLTK stopwords
+        try:
+            stop_words = set(stopwords.words('english'))
+            tokens = [token for token in tokens if token not in stop_words and len(token) > 2]
+        except LookupError:
+            # Fallback: simple stopwords list
+            basic_stopwords = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'is', 'are', 'was', 'were', 'be', 'been', 'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would', 'could', 'should', 'may', 'might', 'can', 'this', 'that', 'these', 'those', 'i', 'you', 'he', 'she', 'it', 'we', 'they', 'me', 'him', 'her', 'us', 'them'}
+            tokens = [token for token in tokens if token not in basic_stopwords and len(token) > 2]
+            
+    except LookupError:
+        # Fallback: simple word splitting
+        tokens = text.split()
+        tokens = [token for token in tokens if len(token) > 2]
     
     return ' '.join(tokens)
 
